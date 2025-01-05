@@ -6,8 +6,9 @@ import streamlit as st
 
 # Charger les fichiers CSV
 try:
-    hotels = pd.read_csv('C:/A5 ESILV/Webscraping & Applied ML/Projet/paris_hotels_final.csv')
-    restaurants = pd.read_csv('C:/A5 ESILV/Webscraping & Applied ML/Projet/paris_restaurants_final.csv')
+    hotels = pd.read_csv('C:/Users/houss/OneDrive/Bureau/Webscrapping_Project/Webscraping-AppliedML-Sarujan_DENSON-Yahya_EL_OUDOUNI-Mohamed_Houssem_REZGUI_DIA2/paris_hotels_final.csv')
+    restaurants = pd.read_csv('C:/Users/houss/OneDrive/Bureau/Webscrapping_Project/Webscraping-AppliedML-Sarujan_DENSON-Yahya_EL_OUDOUNI-Mohamed_Houssem_REZGUI_DIA2/paris_restaurants_final.csv')
+
 except FileNotFoundError:
     st.error("Les fichiers CSV ne sont pas trouvés. Assurez-vous qu'ils sont au bon endroit.")
     st.stop()
