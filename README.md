@@ -73,3 +73,29 @@ Our project also promotes sustainable tourism by:
    ```bash
    git clone https://github.com/your-repository/Paris-Restaurant-Recommendation.git
    cd Paris-Restaurant-Recommendation
+   ```
+   
+2. Install the dependencies
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Run the Streamlit app
+   ```bash
+   streamlit run app.py
+   ```
+4. Access the app through the URL provided in the terminal (e.g., http://localhost:8501).
+
+## Files in the Repository
+
+* app.py: The main Python file for the Streamlit app.
+* paris_hotels_final.csv: Contains hotel data retrieved from the Amadeus API.
+* paris_restaurants_final.csv: Contains restaurant data scraped from TheFork.fr.
+* Webscraping_for_TheFork.ipynb: Jupyter notebook for scraping restaurant data.
+* requirements.txt: Contains the list of required Python libraries.
+* README.md: This file, detailing the project.
+
+## Conclusion
+
+This project provides an intuitive and user-friendly recommendation system to enhance the dining experience of tourists in Paris. By combining hotel and restaurant data, the app simplifies the decision-making process and ensures a seamless exploration of Paris’s renowned culinary scene.
+   
