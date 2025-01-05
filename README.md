@@ -71,7 +71,7 @@ Our project also promotes sustainable tourism by:
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-repository/Paris-Restaurant-Recommendation.git](https://github.com/Saru99034/Webscraping-AppliedML-Sarujan_DENSON-Yahya_EL_OUDOUNI-Mohamed_Houssem_REZGUI_DIA2.git)
+   git clone https://github.com/Saru99034/Webscraping-AppliedML-Sarujan_DENSON-Yahya_EL_OUDOUNI-Mohamed_Houssem_REZGUI_DIA2.git
    ```
    
 2. Install the dependencies
