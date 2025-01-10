@@ -90,8 +90,11 @@ Our project also promotes sustainable tourism by:
 
 ![image](https://github.com/user-attachments/assets/4cfa3265-6d94-4166-b2e9-c6aaf8cef619)
 
-![image](https://github.com/user-attachments/assets/7de17192-2d77-481f-9d32-2a93d40380f3)  Filtres avancés
-![image](https://github.com/user-attachments/assets/298b3a06-9ace-43bc-8885-7976fe8b7478)  Recommandations de restaurants
+### Filtres avancés
+![image](https://github.com/user-attachments/assets/7de17192-2d77-481f-9d32-2a93d40380f3)
+
+### Recommandations de restaurants
+![image](https://github.com/user-attachments/assets/298b3a06-9ace-43bc-8885-7976fe8b7478)  
 
 ## Files in the Repository
 
