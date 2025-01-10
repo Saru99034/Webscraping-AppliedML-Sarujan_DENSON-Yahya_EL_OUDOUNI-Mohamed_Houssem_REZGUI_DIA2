@@ -94,6 +94,10 @@ Our project also promotes sustainable tourism by:
 ![image](https://github.com/user-attachments/assets/7de17192-2d77-481f-9d32-2a93d40380f3)
 
 ### Recommandations de restaurants
+
+![image](https://github.com/user-attachments/assets/c26d3a74-8999-417c-b8c9-e2ffbba8cc78)
+
+
 ![image](https://github.com/user-attachments/assets/298b3a06-9ace-43bc-8885-7976fe8b7478)  
 
 ## Files in the Repository
