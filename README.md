@@ -85,6 +85,14 @@ Our project also promotes sustainable tourism by:
    ```
 4. Access the app through the URL provided in the terminal (e.g., http://localhost:8501).
 
+
+## Overview of the application
+
+![image](https://github.com/user-attachments/assets/4cfa3265-6d94-4166-b2e9-c6aaf8cef619)
+
+![image](https://github.com/user-attachments/assets/7de17192-2d77-481f-9d32-2a93d40380f3)  Filtres avancés
+![image](https://github.com/user-attachments/assets/298b3a06-9ace-43bc-8885-7976fe8b7478)  Recommandations de restaurants
+
 ## Files in the Repository
 
 * app.py: The main Python file for the Streamlit app.
