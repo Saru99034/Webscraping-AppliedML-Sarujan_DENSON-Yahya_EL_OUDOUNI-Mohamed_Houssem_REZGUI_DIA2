@@ -111,5 +111,6 @@ Our project also promotes sustainable tourism by:
 
 ## Conclusion
 
+
 This project provides an intuitive and user-friendly recommendation system to enhance the dining experience of tourists in Paris. By combining hotel and restaurant data, the app simplifies the decision-making process and ensures a seamless exploration of Paris’s renowned culinary scene.
    
