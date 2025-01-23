@@ -84,6 +84,16 @@ Our project also promotes sustainable tourism by:
    streamlit run app.py
    ```
 4. Access the app through the URL provided in the terminal (e.g., http://localhost:8501).
+   
+
+## Files in the Repository
+
+* app.py: The main Python file for the Streamlit app.
+* paris_hotels_final.csv: Contains hotel data retrieved from the Amadeus API.
+* paris_restaurants_final.csv: Contains restaurant data scraped from TheFork.fr.
+* Webscraping_for_TheFork.ipynb: Jupyter notebook for scraping restaurant data.
+* requirements.txt: Contains the list of required Python libraries.
+* README.md: This file, detailing the project.
 
 
 ## Overview of the application
@@ -100,14 +110,6 @@ Our project also promotes sustainable tourism by:
 
 ![image](https://github.com/user-attachments/assets/298b3a06-9ace-43bc-8885-7976fe8b7478)  
 
-## Files in the Repository
-
-* app.py: The main Python file for the Streamlit app.
-* paris_hotels_final.csv: Contains hotel data retrieved from the Amadeus API.
-* paris_restaurants_final.csv: Contains restaurant data scraped from TheFork.fr.
-* Webscraping_for_TheFork.ipynb: Jupyter notebook for scraping restaurant data.
-* requirements.txt: Contains the list of required Python libraries.
-* README.md: This file, detailing the project.
 
 ## Conclusion
 
